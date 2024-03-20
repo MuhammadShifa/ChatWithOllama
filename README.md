@@ -1,2 +1,2 @@
 # ChatWithOllama
-let's chat/talk with Ollama models through browser based application.
+let's chat/talk with Ollama models through Gradio Application.
