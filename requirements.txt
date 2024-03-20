@@ -1,0 +1,6 @@
+# python 3.11.8 conda env created
+gradio==4.22.0
+langchain==0.1.12
+langchain_community==0.0.28
+openai==1.14.2
+Requests==2.31.0
